@@ -26,7 +26,7 @@ npm or yarn for package management.
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/TRWeather.git
+git clone https://github.com/emreozturken/TRWeather.git
 Navigate to the project folder:
 
 cd TRWeather
