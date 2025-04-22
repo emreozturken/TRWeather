@@ -88,3 +88,4 @@ OpenWeatherMap API for weather data.
 This project was built using Create React App.
 
 You can replace the placeholder YOUR_API_KEY in your app with your actual OpenWeather API key and run the app as mentioned. Feel free to add any specific sections or details about the app.
+![1_1](https://github.com/user-attachments/assets/49b99a00-e5fe-4ca7-b23a-0288cf65c278)
